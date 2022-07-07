@@ -117,7 +117,11 @@ export default function Home() {
               envolvidos no conflito, a União Soviética sofreu as maiores
               perdas, com 26 milhões a 27 milhões de mortos. Polônia registrou
               até seis milhões de mortes, o que corresponde a 17% de sua
-              população na época.
+              população na época. De acordo com estudo do historiador Dieter
+              Pohl, especialista em Holocausto e professor da Universidade de
+              Klagenfurt, foram executados durante a Segunda Guerra entre 5,4
+              milhões e 5,8 milhões de judeus. Destes, 2,6 milhões foram
+              assassinados em campos de concentração e extermínio.
             </p>
           </section>
           <section id="destruction-loss">
