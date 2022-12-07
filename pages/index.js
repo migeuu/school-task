@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <div home>
       <Head>
-        <title>Trabalho de História kk</title>
+        <title>Trabalho de Quimica</title>
       </Head>
       <section id="hero" className={utilStyles.fadeInContainer}>
         <h1 className={utilStyles.heading2Xl}>Proteínas</h1>
